@@ -1,8 +1,5 @@
 const initialState = {
-    recipes: null,
-    current: null,
-    loading: false,
-    error: null
+    attribute1: null
 };
 
 export default (state = initialState, action) => {
